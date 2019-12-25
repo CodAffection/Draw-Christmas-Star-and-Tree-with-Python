@@ -1,7 +1,7 @@
 # Draw-Christmas-Star-and-Tree-with-Python
 Draw Christmas Star and Tree with Python
 
-
+![](Screenshot.png)
 
 
 # All Video Tutorial Series
